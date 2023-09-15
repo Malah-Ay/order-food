@@ -5,4 +5,4 @@
 
 <h3>Project GIF<h3>
 
-! [](order-food-gif.gif)
+![](order-food-gif.gif)
