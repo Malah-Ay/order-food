@@ -1,4 +1,4 @@
-<h1>Project for ordering food <h1> <br>
+<h1>Project for ordering food </h1> <br>
 <h4>It is a fully responsive site and a site built using location and em criteria. We enabled the basket and menu in the navbar to work responsively by activating it with Java.
   Visually beautiful and high quality work.</h4>
 
