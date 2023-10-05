@@ -1,8 +1,8 @@
-<h1>Order Food/h1>
+<h1>Order Food/<h1>
 
 <h2>BurgerTime</h2>
 
-This project includes a course website created using HTML,CSS and js. The project consists of 7 sections: " Home,About,Menu,products,Review,contact,blogs
+This project includes a course website created using HTML,CSS and js. The project consists of 7 sections: " Home,About,Menu,products,Review,contact,blogs"
 <h2>Contents</h2>
 
 
